@@ -12,6 +12,7 @@ app.get('/',(req,res)=>{
     res.send("backend working")
 })
 
+
 app.use(express.json());
 app.use('/ai',airoutes)
 
