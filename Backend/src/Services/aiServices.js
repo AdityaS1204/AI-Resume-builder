@@ -47,7 +47,7 @@ Demonstrated ability to deliver robust solutions that improve efficiency and use
 
 ---
 
-## **Technical Skills**  
+## **Technical Skills**  (make sure the skills are in lines exactly same as given below and not in bullets)
 * **Languages:** JavaScript, Python, C  
 * **Frameworks & Libraries:** Node.js, Express, React.js, Tailwind CSS  
 * **Databases:** MongoDB, PostgreSQL  

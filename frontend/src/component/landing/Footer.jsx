@@ -5,9 +5,7 @@ const Footer = () => {
     return (
         <div className='w-full h-40 -mt-10 bg-[#06051d] flex justify-center relative z-40'>
             <div className='w-10/12 h-full border border-slate-400 rounded-3xl text-white p-10 flex justify-between items-center'>
-                <div>
-                    <p>Copyright</p>
-                </div>
+                
                 <div>
                     <p>Made by Aditya Singh</p>
                 </div>
